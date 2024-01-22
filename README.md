@@ -10,6 +10,10 @@
 
 > Projeto de uma API de um Ecommerce, com suas rotas disponíveis.
 
+### Uso da API
+
+- O projeto pode ser acessado através do seguinte deploy na [AWS](http://api-dev.eba-bsviukpm.us-east-1.elasticbeanstalk.com)
+
 ### Ajustes e melhorias
 
 O projeto foi desenvolvido mas poderia melhorar em alguns pontos:
